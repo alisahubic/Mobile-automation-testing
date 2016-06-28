@@ -34,4 +34,8 @@ public class LoginNegativeTests extends InstrumentationTestCase {
 
     }
 
+    public void testLoginWithShortPassword() throws  Exception {
+
+    }
+
 }
